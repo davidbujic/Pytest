@@ -1,4 +1,4 @@
-# Project name
+# Pytest
 
 Kreiran je primer koriscenja biblioteke pytest uz pomoc funkcija za sabiranje i mnozenje.
 
