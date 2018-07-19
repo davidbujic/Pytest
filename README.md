@@ -1,22 +1,22 @@
 # Project name
 > Kratak opis projekta u jednoj recenici
 
-Ovde ide opis
+Kreiran je primer koriscenja biblioteke pytest uz pomoc funkcija za sabiranje i mnozenje.
 
 ## Features
-Ovde ide opis funkcija
+Napravljene su funkcije za sabiranje i mnozenje brojeva koje uzimaju dva parametra x,y koji se u zavisnosti od funkcije sabiraju ili mnoze. Funkcije pomocu return vracaju zbir odnosno proizvod parametara x i y.
 
 ## Prerequisites
-Ovde idu preduslovi
+Za ovaj projekat su potrebni GitHub account i biblioteka pytest.
 
 ## Installation
-Koraci za instalaciju
+Prvo je potrebna instalacija pytest biblioteke pomocu komande pip install -U pytest. Zatim sa GitHub-a se preuzmu fajlovi ili pokretanjem komande git clone https://github.com/davidbujic/Python. 
 
 ## Running
-Pokretanje projekta
+Projekat se pokrece otvaranjem test_sabiranje_i_mnozenje.py fajla.
 
 ### Running the Tests
-Pokretanje testova projekta
+Pokretanje testova projekta vrsimo kucanjem komande pytest u terminalu.
 
 ## Versions
-Spisak verzija
+1. Osnovna verzija 
