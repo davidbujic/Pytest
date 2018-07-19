@@ -1,5 +1,4 @@
 # Project name
-> Kratak opis projekta u jednoj recenici
 
 Kreiran je primer koriscenja biblioteke pytest uz pomoc funkcija za sabiranje i mnozenje.
 
