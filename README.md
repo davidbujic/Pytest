@@ -9,7 +9,7 @@ Napravljene su funkcije za sabiranje i mnozenje brojeva koje uzimaju dva paramet
 Za ovaj projekat su potrebni `GitHub account` i biblioteka `pytest` koja se instalira pomocu komande `pip install -U pytest`. IDE za rad je IDLE Python.
 
 ## Installation
-Projekat se pokrece pomocu IDLE Python-a. Projekat se preuzima sa GitHub-a ili pokretanjem komande `git clone https://github.com/davidbujic/Python`. 
+Projekat se pokrece pomocu IDLE Python-a. Projekat se preuzima sa GitHub-a ili pokretanjem komande `git clone https://github.com/davidbujic/Pytest`. 
 
 ## Running
 Projekat se pokrece otvaranjem test_sabiranje_i_mnozenje.py fajla.
