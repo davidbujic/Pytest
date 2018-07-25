@@ -6,7 +6,7 @@ Kreiran je primer koriscenja biblioteke pytest uz pomoc funkcija za sabiranje i 
 Napravljene su funkcije za sabiranje i mnozenje brojeva koje uzimaju dva parametra x,y koji se u zavisnosti od funkcije sabiraju ili mnoze. Funkcije pomocu return vracaju zbir odnosno proizvod parametara x i y.
 
 ## Skills
-***pytest***
+1. ***pytest***
 
 ## Prerequisites
 Za ovaj projekat su potrebni `GitHub account` i biblioteka `pytest` koja se instalira pomocu komande `pip install -U pytest`. IDE za rad je IDLE Python.
@@ -23,3 +23,4 @@ Pokretanje testova projekta vrsimo kucanjem komande `pytest` u terminalu.
 ## Versions
 1. Osnovna verzija. 
 2. U readme.md dodati detalji vezani za prerequisites i za sam projekat. Takodje je promenjeno ime repozitorijuma.
+3. U readme.md fajl dodati detalji vezani za skills.
